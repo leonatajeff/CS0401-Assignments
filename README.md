@@ -1,5 +1,5 @@
 # CS0401-Assignments
-## Intermediate Programming with Java
+## Intermediate Programming with Java @ Pitt
 
 * Assignment #1: Program that simulates transactions between workers and customers
 * Assignment #2: Word-Changer game (ellho -> hello)
