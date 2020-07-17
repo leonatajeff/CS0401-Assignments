@@ -1,5 +1,5 @@
-# CS441-Projects
-Projects I've had in my Intermediate Programming with Java class. (Taken in Fall 2019)
+# CS0401-Assignments
+## Intermediate Programming with Java
 
 * Assignment #1: Program that simulates transactions between workers and customers
 * Assignment #2: Word-Changer game (ellho -> hello)
